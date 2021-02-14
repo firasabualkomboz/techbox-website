@@ -19,90 +19,87 @@ margin: 0 auto;
 }
 /* our-project */
 .our-project{
-    padding-top: 40px;
-    padding-bottom: 40px;
+padding-top: 40px;
+padding-bottom: 40px;
 }
 .our-project h2{
-    color: #12B0FF;
-    font-size: 65px;
-    padding-bottom: 5px;
-  }
+color: #12B0FF;
+font-size: 36px;
+padding-bottom: 5px;
+}
   
 .our-project h2::after {
-    content: "";
-    display: block;
-    border-bottom: 5px dotted #12B0FF;
-    width: 10%;
-    position: relative;
-    bottom: -6px; /* your padding + border-width */
-  }
-
-  .our-project .details{
-    padding-top: 40px;
-    padding-bottom: 40px;
+content: "";
+display: block;
+border-bottom: 5px dotted #12B0FF;
+width: 10%;
+position: relative;
+bottom: -6px; 
 }
+
+.our-project .details{
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
 .our-project .details h3{
-    color: #534D4D;
-    font-size: 36px;
-    font-weight: bold;
+color: #534D4D;
+font-size: 24px;
+font-weight: bold;
 }
 .our-project .details p{
 padding-top: 20px;
 padding-bottom: 20px;
-  font-size: 24px;
-  color: #072928;
-  line-height: 1.5;
+font-size: 18px;
+color: #072928;
+line-height: 1.8;
 }
 .our-project .details ol li {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    display: inline-block;
-    margin-right: 10px;
-
+padding-top: 20px;
+padding-bottom: 20px;
+display: inline-block;
+margin-right: 10px;
+font-size: 16px;
 }
 .our-project .details ol li .btn-demo{
-  background-color: #FBFBFB;
-  color: #12B0FF;
-  text-decoration: none;
-  padding: 10px;
-  border-radius: 4px;
-  border: solid 1px #707070;
-  cursor: pointer;
-  box-shadow:   10px 20px 20px -15px #888888;;
+background-color: #FBFBFB;
+color: #12B0FF;
+text-decoration: none;
+padding: 10px;
+border-radius: 4px;
+border: solid 1px #707070;
+cursor: pointer;
+box-shadow:   10px 20px 20px -15px #888888;;
 }
 .our-project .details ol li a {
-    text-decoration: none;
-    color: #777777;
-    font-weight: bold;
+text-decoration: none;
+color: #777777;
+font-weight: bold;
 }
 
 /* others-project */
-.others-project{
 
-}
 .card-others-project {
-    padding-top: 40px;
-    padding-bottom: 40px; 
+padding-top: 40px;
+padding-bottom: 40px; 
 }
 .card-others-project h2{
 color: #12B0FF;
-font-size: 50px;
+font-size: 36px;
 }
 .card-others-project .row{
-    padding-top: 40px;
-    padding-bottom: 40px; 
+padding-top: 40px;
+padding-bottom: 40px; 
 }
-.card-others-project .card-details img{
-    width: 100%;
-}
+.card-others-project .card-details img{ width: 100%;}
 .card-others-project .card-details .card-text{
-    padding-top: 40px;
-    padding-bottom: 40px; 
+padding-top: 40px;
+padding-bottom: 40px; 
 }
 .card-others-project .card-details h3{
- font-size: 24px;
+ font-size: 18px;
 }
 .card-others-project .card-details p{
     color: #777777;
-    font-size: 15px;
+    font-size: 14px;
 }
