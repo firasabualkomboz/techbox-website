@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214.154" height="78" viewBox="0 0 214.154 78">
+  <g id="Group_718" data-name="Group 718" transform="translate(-118.728 -82.5)">
+    <g id="Group_30" data-name="Group 30">
+      <g id="Group_2" data-name="Group 2" transform="translate(118.728 102.5)">
+        <path id="Path_4" data-name="Path 4" d="M3798.986,1418.2l8.992-5.477v-13.16l-10.464-5.967s-.735-.981-2.289,0-28.527,16.757-28.527,16.757V1423.6l9.4,5.64v7.6l10.545,5.8a1.364,1.364,0,0,0,1.88,0c1.145-.818,10.463-5.8,10.463-5.8Z" transform="translate(-3766.699 -1393.164)" fill="#fff"/>
+        <path id="Path_1" data-name="Path 1" d="M3779.011,1414.879l23.215-13.814,7.52,4.251v8.991l-4.9,2.861v-10.626l-20.6,11.689Z" transform="translate(-3772.472 -1396.869)" fill="#344978"/>
+        <path id="Path_2" data-name="Path 2" d="M3773.625,1428.123l8.173,5.068,16.43-9.809v25.176l-5.722,3.76v-18.555l-11.362,6.458-7.52-4.25Z" transform="translate(-3769.947 -1407.334)" fill="#344978"/>
+        <path id="Path_3" data-name="Path 3" d="M3797.219,1454.626v12.261l-6.049-3.351v-5.722Z" transform="translate(-3778.174 -1421.985)" fill="#344978"/>
+      </g>
+      <text id="TechBox" transform="translate(182.904 82.5)" fill="#fefefe" font-size="65" font-family="ZahraArabic-Regular"><tspan x="0" y="62">TechBox</tspan></text>
+    </g>
+    <text id="TM" transform="translate(323.882 121.939)" fill="#fff" font-size="11" font-family="ZahraArabic-Regular"><tspan x="0" y="0">TM</tspan></text>
+  </g>
+</svg>

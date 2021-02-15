@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -119,4 +120,22 @@ padding-bottom: 40px;
 .card-others-project .card-details p{
     color: #777777;
     font-size: 14px;
+}
+footer{
+    text-align: center;
+    background-color: #344978;
+}
+footer .item-footer{
+padding: 20px;
+}
+footer .item-footer .fot-s1 ol li a{
+ color: #fff;
+ margin-right: 5px;
+}
+
+footer .item-footer .fot-s2 img{
+    width: 25%;
+}
+footer .item-footer .fot-s3 p{
+    color: #fff;
 }
