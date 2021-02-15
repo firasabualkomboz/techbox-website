@@ -88,12 +88,12 @@ font-weight: bold;
 
 /* others-project */
 .others-project{
-    background-image: url("../image/back.png");
-    background-repeat: no-repeat;
+background-image: url("../image/back.png");
+background-repeat: no-repeat;
 }
 .card-others-project {
 padding-top: 40px;
-padding-bottom: 40px; 
+
 }
 .card-others-project h2{
 color: #12B0FF;
@@ -121,21 +121,34 @@ padding-bottom: 40px;
     color: #777777;
     font-size: 14px;
 }
+
 footer{
-    text-align: center;
-    background-color: #344978;
+    padding-top: 40px;
+    padding-bottom: 40px;
+float: center;
+text-align: center;
+background-color: #344978;
+width: 100%;
+
 }
 footer .item-footer{
-padding: 20px;
+
 }
+footer .item-footer .fot-s1{
+  margin-top: 20px;
+}
+footer .item-footer .fot-s3{
+    margin-top: 20px;
+  }
+  footer .item-footer .fot-s2{
+    margin-top: 0px;
+  }
 footer .item-footer .fot-s1 ol li a{
  color: #fff;
  margin-right: 5px;
+ margin-top: 20px;
 }
 
-footer .item-footer .fot-s2 img{
-    width: 25%;
+footer .item-footer .fot-s2 img{ width: 35%;
 }
-footer .item-footer .fot-s3 p{
-    color: #fff;
-}
+footer .item-footer .fot-s3 p{color: #fff;}
