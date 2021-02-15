@@ -54,6 +54,10 @@ font-size: 18px;
 color: #072928;
 line-height: 1.8;
 }
+.our-project .details ol{
+    background-image: url("../image/back.png");
+    background-repeat: no-repeat;
+}
 .our-project .details ol li {
 padding-top: 20px;
 padding-bottom: 20px;
@@ -65,11 +69,15 @@ font-size: 16px;
 background-color: #FBFBFB;
 color: #12B0FF;
 text-decoration: none;
-padding: 10px;
+padding: 20px;
 border-radius: 4px;
-border: solid 1px #707070;
 cursor: pointer;
-box-shadow:   10px 20px 20px -15px #888888;;
+box-shadow:   10px 20px 20px -15px #888888;
+}
+.our-project .details ol li .btn-demo:hover{
+border: #12B0FF solid 1px;
+box-shadow:  0px 0px 0px -0px #888888;
+transition: all 0.2s 0.2s;
 }
 .our-project .details ol li a {
 text-decoration: none;
@@ -78,7 +86,10 @@ font-weight: bold;
 }
 
 /* others-project */
-
+.others-project{
+    background-image: url("../image/back.png");
+    background-repeat: no-repeat;
+}
 .card-others-project {
 padding-top: 40px;
 padding-bottom: 40px; 
@@ -90,6 +101,12 @@ font-size: 36px;
 .card-others-project .row{
 padding-top: 40px;
 padding-bottom: 40px; 
+}
+.card-others-project .card-details:hover {
+cursor: pointer;
+margin-top: 10px;
+opacity: 80%;
+transition: all 0.2s 0.2s;
 }
 .card-others-project .card-details img{ width: 100%;}
 .card-others-project .card-details .card-text{
