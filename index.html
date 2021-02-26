@@ -22,6 +22,9 @@
   
 
     
+    <!-- <div class="loader">
+        <img src="image/footer-logo.png" alt="Loading..." />
+    </div> -->
     <div class="loader">
         <img src="image/footer-logo.png" alt="Loading..." />
     </div>
@@ -150,11 +153,17 @@
 </div>
 </footer>
 <!-- end footer -->
-<script>
+<SCript>
     window.addEventListener("load", function () {
     const loader = document.querySelector(".loader");
+
     loader.className += " hidden"; // class "loader hidden"
 });
+</SCript>
+<script>
+//     $(window).on("loader",function(){
+//     $(".loader").fadeOut(3000);
+// });
 </script>
 
 <!-- include file js  -->
